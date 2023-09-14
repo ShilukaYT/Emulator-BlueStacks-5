@@ -1,0 +1,505 @@
+STRING_RESTART = Khởi động lại
+
+STRING_LEARN_MORE = Tìm hiểu thêm
+
+STRING_APP_CRASH = Sự cố ứng dụng
+
+STRING_64BIT = 64-bit
+
+STRING_WARNING = Cảnh báo
+
+STRING_PIE = Pie
+
+STRING_FOLDER = Thư mục
+
+STRING_CANNOT_INSTALL_0 = Không thể cài đặt @@STRING_PRODUCT_NAME@@ {0}
+
+STRING_RESTART_PC = Khởi động lại PC
+
+STRING_STATUS_COLLECTING_GUEST = Thu thập thông tin Android
+
+STRING_DOWNLOADING = Đang tải xuống
+
+STRING_CANT_USE_THIS_FOLDER = Rất tiếc, không thể sử dụng thư mục đã chọn để cài đặt @@STRING_PRODUCT_NAME@@
+
+STRING_ERROR_SENDING_REPORT = Lỗi khi gửi báo cáo
+
+STRING_SPACE_REQUIRED = Không gian cần thiết
+
+STRING_HYPERV_DISABLED_MESSAGE = @@STRING_PRODUCT_NAME@@ không thể khởi động khi Hyper-V bị tắt. Bạn nên bật Microsoft Hyper-V từ Windows Control Panelvà thử lại. Tham khảo Câu hỏi thường gặp này để biết các bước về cách bật tính năng này.
+
+STRING_COULDNT_RESTORE_UNUSABLE = @@STRING_PRODUCT_NAME@@ không thể khôi phục về trạng thái trước đó và có thể không sử dụng được.
+
+STRING_CHOOSE_AGAIN = Chọn lại
+
+STRING_RETRY = Thử lại
+
+STRING_DISABLED_VT = @@STRING_PRODUCT_NAME@@ không thể khởi động ảo hóa phần cứng bị tắt. Bạn nên bật Microsoft Hyper-V từ Windows Control Panelvà thử lại. Tham khảo Câu hỏi thường gặp này để biết các bước về cách bật tính năng này.
+
+STRING_MINIMIZE_INSTALLER = Thu nhỏ trình cài đặt?
+
+STRING_PC_HAS_LESS_MEMORY = PC của bạn có bộ nhớ dưới {0} GB mà @@STRING_PRODUCT_NAME@@ yêu cầu để chạy.
+
+STRING_CANNOT_USE_FOLDER = Không thể sử dụng thư mục
+
+STRING_APP_NAME_WATERMARK = Nhập tên ứng dụng tại đây
+
+STRING_FAILED_TO_RESTORE_OLD_DATA = @@STRING_PRODUCT_NAME@@ không thể khôi phục dữ liệu trước đó của bạn.
+
+STRING_AUTO = Tự động
+
+STRING_DOWNLOAD = Tải xuống
+
+STRING_BS_REQUIRES_SPACE_DRIVE_INSTALL = @@STRING_PRODUCT_NAME@@ yêu cầu ít nhất {0} GB dung lượng đĩa trống trong ổ đĩa {1} để cập nhật.
+
+STRING_SUBMIT = Gửi
+
+STRING_TOTAL_ATTACHMENT_COUNT_EXCEEDED_LIMIT = Chỉ có thể đính kèm dưới 10 file
+
+NAME = Tên
+
+STRING_CUSTOM = Tùy chỉnh cài đặt
+
+STRING_CLEAN_BLUESTACKS = Thao tác này sẽ xóa tất cả dữ liệu trò chơi được lưu cục bộ trên @@STRING_PRODUCT_NAME@@.
+
+STRING_GAME_LAG = Chơi trò chơi cảm thấy chậm / chậm chạp
+
+STRING_VERSION_ALREADY_INSTALLED = Phiên bản mới nhất đã được cài đặt
+
+STRING_APPLICATION_NAME = Tên ứng dụng
+
+STRING_EXIT_INSTALLER = Thoát trình cài đặt
+
+STRING_SUBCATEGORY = Danh mục con
+
+STIRNG_ACCEPT_TNC = Chấp nhận Điều khoản Sử dụng
+
+STRING_INSTALLATION_ERROR = Lỗi cài đặt
+
+STRING_STATUS_COLLECTING_HOST = Thu thập thông tin máy chủ
+
+STRING_REASON_FOR_UNINSTALL = Vui lòng cho chúng tôi biết lý do bạn chọn gỡ cài đặt @@STRING_PRODUCT_NAME@@
+
+STRING_FINISHED = Đã hoàn thành
+
+STRING_AGREE = Chấp nhận
+
+STRING_PROBLEM_TYPE = Loại vấn đề
+
+STRING_STATUS_COLLECTING_PRODUCT = Thu thập thông tin sản phẩm
+
+STRING_CREATE = Tạo
+
+STRING_SELECT_APP_NAME = Chọn tên ứng dụng
+
+STRING_RESTART_NOW = Khởi động lại ngay bây giờ
+
+STRING_CANCEL = Huỷ bỏ
+
+ANDROID = Android
+
+STRING_NO = Không
+
+STRING_POST_OTS_FAILED_WARNING_MESSAGE = Vui lòng kiểm tra kết nối internet của bạn và thử lại.
+
+STRING_UNINSTALL_CURRENT_AND_REINSTALL = Vui lòng gỡ cài đặt bản dựng hiện tại của bạn và cài đặt lại @@STRING_PRODUCT_NAME@@.
+
+STRING_0_MINS_LEFT = {0} phút còn lại
+
+STRING_WAITING_FOR_INTERNET = Chờ kết nối Internet
+
+STRING_FOLDER_CANNOT_CONTAIN_FOLLOWING_SPECIAL_CHARS = Đường dẫn đã chọn không được chứa bất kỳ ký tự nào sau đây:
+
+STRING_CLIENT_UNINSTALL = Gỡ cài đặt ứng dụng
+
+STRING_INSUFFICIENT_SPACE = Không đủ dung lượng đĩa
+
+STRING_CONTINUE = Tiếp tục
+
+STRING_SELECT_FOLDER = Vui lòng chọn một thư mục khác
+
+STRING_ROLLBACK_FAILED_SORRY_MESSAGE = Chúng tôi rất lấy làm tiếc nhưng cả quá trình nâng cấp và khôi phục sau đó đều không thành công và không thể khôi phục @@STRING_PRODUCT_NAME@@ về trạng thái như trước khi bắt đầu nâng cấp. Rất tiếc, bạn chỉ có thể gỡ cài đặt phiên bản hiện có của @@STRING_PRODUCT_NAME@@ và cài đặt phiên bản mới nhất của @@STRING_PRODUCT_NAME@@ từ trang web.
+
+STRING_CLOSE = Đóng
+
+STRING_THANKS_FOR_USING_BLUESTACKS = Cảm ơn bạn đã sử dụng @@STRING_PRODUCT_NAME@@
+
+STRING_CHECKING_YOUR_SYSTEM = Kiểm tra hệ thống của bạn
+
+STRING_MINIMIZE_TOOLTIP = Thu nhỏ
+
+STRING_INSTALLATION_ROLLBACK_COMPLETE = Hoàn tất quá trình khôi phục
+
+STRING_EXE_CRASH = lỗi .exe
+
+STRING_REPORT_SENT_SUCCESS = Gửi báo cáo thành công
+
+STRING_ERROR = lỗi
+
+STRING_INSTALLING_ENGINE = Cài đặt công cụ
+
+STRING_INSTALLATION_CANCEL_CONFIRMATION = Bạn có muốn hủy cài đặt này không?
+
+STRING_SYSTEM_REQUIREMENTS_NOT_MET = Yêu cầu hệ thống tối thiểu không được đáp ứng
+
+STRING_ATTACHMENT_UNALLOWED_EXTENSION_BAT_EXE = File với đuôi exe và bat sẽ không được phép
+
+STRING_APP_DETAILS = THÔNG TIN ỨNG DỤNG
+
+STRING_NOUGAT = Nougat
+
+STRING_INSTALLATION_FAILED = Thật không may, không thể cài đặt @@STRING_PRODUCT_NAME@@
+
+STRING_HOW_TO_TAKE_BACKUP = Làm thế nào để sao lưu?
+
+STRING_BETA = Beta
+
+STRING_CHOOSE = Lựa chọn
+
+STRING_APP_NAME = Nhập tên ứng dụng
+
+STRING_HYPERV_OS_RELEASEID_WARNING = Phiên bản @@STRING_PRODUCT_NAME@@ này yêu cầu Windows phiên bản 1903 trở lên. Vui lòng cập nhật Windows hoặc tắt Hyper-V để cài đặt @@STRING_PRODUCT_NAME@@.
+
+STRING_LATEST_VERSION_INSTALLED = Phiên bản mới nhất của @@STRING_PRODUCT_NAME@@ đã được cài đặt trên PC của bạn.
+
+STRING_CREATE_SHORTCUTS = Tạo phím tắt @@STRING_PRODUCT_NAME@@
+
+STRING_INSTALL_REQUIRES_ADMIN = Để cài đặt, @@STRING_PRODUCT_NAME@@ yêu cầu đặc quyền Quản trị viên Windows. Bạn có muốn cấp cho nó để tiếp tục cài đặt?
+
+STRING_CANNOT_FIND_GAME = Không thể tìm thấy một trò chơi
+
+STRING_RECEIVE_EMAIL_NOTIFICATION = Nhận thông báo qua email
+
+STRING_OK = OK
+
+STRING_RESTART_TRY_AGAIN = Chúng tôi có thể khuyên bạn nên khởi động lại PC và thử cài đặt lại không?
+
+STRING_UNINSTALL_FINISHED = Đã gỡ cài đặt @@STRING_PRODUCT_NAME@@
+
+STRING_INSTALL_DONE = Cài đặt hoàn tất
+
+STRING_INSTALL_GAME_FAIL = Không thể cài đặt trò chơi
+
+STRING_UNINSTALL_TITLE = Gỡ cài đặt @@STRING_PRODUCT_NAME@@
+
+STRING_ATTACH_FILES = Đính kèm tệp
+
+STRING_INSTALL_FAIL = Cài đặt thất bại
+
+STRING_READ_WHATS_NEW = Đọc tin tức mới
+
+STRING_LOGCOLLECTOR_RUNNING = Công cụ báo cáo sự cố đã chạy
+
+STRING_DESCRIBE_PROBLEM = Mô tả lỗi
+
+STRING_TOTAL_ATTACHMENT_SIZE_EXCEEDED_LIMIT = Tổng số tệp được đính kèm vượt quá giới hạn tối đa cho phép là 25MB. Vui lòng chọn một tập tin khác.
+
+STRING_INSUFFICIENT_DISKSPACE = PC của bạn không có đủ dung lượng ổ đĩa. @@STRING_PRODUCT_NAME@@ yêu cầu
+
+STRING_ERROR_OCCURED_DEPLOYING_FILES = @@STRING_PRODUCT_NAME@@ đã gặp lỗi khi triển khai một số tệp.
+
+STRING_HYPERV_COMPUTE_PLATFORM_DISABLED_WARNING = @@STRING_PRODUCT_NAME@@ không thể bắt đầu vì nền tảng tính toán Hyper-V không được bật trên PC của bạn.
+
+STRING_INSTALL_FINISH = Cài đặt hoàn tất
+
+STRING_CHECK_FAQ = Kiểm tra câu hỏi thường gặp
+
+STRING_DOWNLOAD_FAILED = Tải xuống thất bại
+
+STRING_CANT_INSTALL_BLUESTACKS = Không thể cài đặt BlueStacks
+
+STRING_RESTART_MACHINE_PROMPT = Bạn có muốn khởi động lại PC của mình không?
+
+STRING_PC_INSUFFICIENT_SPACE_WARNING = Rất tiếc, PC của bạn không có đủ dung lượng đĩa để cập nhật BlueStacks.
+
+STRING_ERROR_CODE_COLON = Mã lỗi:
+
+STRING_YES = Đúng
+
+STRING_INSTALLER = © 2011 đến 2023 BlueStacks by now.gg, Inc. Bảo lưu mọi quyền trên toàn thế giới
+
+STRING_RETRY_CONNECTION_ISSUE_TEXT1 = Thử lại
+
+STRING_TRY_RESTARTING_MACHINE = Khởi động lại PC của bạn và thử lại
+
+STRING_SELECTED_DRIVE_INSUFFICIENT_DISKSPACE = Thật không may, ổ đĩa được chọn không có đủ dung lượng đĩa để cài đặt @@STRING_PRODUCT_NAME@@.
+
+STRING_AFTER_DISK_SPACE_CONTINUE = Vui lòng giải phóng dung lượng đĩa cần thiết và thử lại.
+
+STRING_UPGRADE_FAILED = Nâng cấp không thành công
+
+STRING_INSUFFICIENT_MEMORY = Không đủ bộ nhớ
+
+STRING_BLUESTACKS = @@STRING_PRODUCT_NAME@@
+
+STRING_BST_SUPPORT_UTILITY = Tiện ích hỗ trợ của @@STRING_PRODUCT_NAME@@
+
+STRING_UNINSTALL_BLUESTACKS = Bạn có muốn gỡ cài đặt @@STRING_PRODUCT_NAME@@ không?
+
+STRING_BEFORE_CREATING_SETUP = @@STRING_PRODUCT_NAME@@ đã được cài đặt. Để tạo phiên bản {0}, @@STRING_PRODUCT_NAME@@ cần cập nhật lên phiên bản mới nhất.
+
+STRING_ERROR_INSTALLING_BLUESTACKS = Lỗi khi cài đặt @@STRING_PRODUCT_NAME@@
+
+STRING_LAUNCH = Khỏi động
+
+BLUESTACKS = @@STRING_PRODUCT_NAME@@
+
+STRING_DATA_PATH = @@STRING_PRODUCT_NAME@@ đường dẫn dữ liệu
+
+STRING_ANTIVIRUS_PAUSE_INSTALLER =  Tạm dừng phần mềm chống vi-rút trên PC của bạn nếu nó đang can thiệp vào quá trình cài đặt
+
+STRING_0_COMMA_1 = {0}, {1}
+
+NONE = None
+
+STRING_INSTALL_NOW = Cài đặt ngay
+
+STRING_CATEGORY = thể loại
+
+STRING_REPORT_A_PROBLEM = Báo cáo sự cố
+
+STRING_SORRY_ERROR_INSTALLING_BLUESTACKS = Xin lỗi, có vẻ như đã xảy ra lỗi khi cài đặt @@STRING_PRODUCT_NAME@@.
+
+STRING_ONE_STEP_GO_ADDITIONAL_FILES = Còn một bước nữa - một vài tệp bổ sung sẽ được tải xuống để tạo phiên bản {0}.
+
+STRING_AGREE_WITH_LICENSE = Bạn phải đồng ý với Điều khoản sử dụng của chúng tôi để tiếp tục
+
+STRING_SELECT_AGAIN = lựa chọn lại
+
+STRING_START_ENGINE_FAIL = Động cơ không khởi động
+
+STRING_INSTALLING = Đang cài đặt
+
+STRING_32BIT = 32-bit
+
+STRING_OS_VERSION_NOT_SUPPORTED = @@STRING_PRODUCT_NAME@@ không được hỗ trợ cho phiên bản Windows chạy trên PC này.
+
+STRING_EXIT = Thoát
+
+STRING_UPGRADE_NOT_SUPPORTED = Rất tiếc, không thể nâng cấp phiên bản hiện có của @@STRING_PRODUCT_NAME@@ lên phiên bản mới nhất.
+
+STRING_INCOMPATIBLE_INSTALLER_STARTED = Phiên bản trình cài đặt @@STRING_PRODUCT_NAME@@ này không tương thích với phiên bản Windows của bạn. Vui lòng tải xuống phiên bản {0} của @@STRING_PRODUCT_NAME@@ và thử lại.
+
+STRING_INSTALLER_CANNOT_STOP_AFTER_START = Thật không may, quá trình cài đặt không thể dừng lại một khi đã bắt đầu. Xin vui lòng chờ cho đến khi hoàn thành.
+
+STRING_INVALID_FILE = File không đúng
+
+STRING_STATUS_INITIAL = Bắt đầu sưu tập
+
+STRING_ATTACHMENT_SIZE_EXCEEDED = Kích thước đính kèm quá cao
+
+STRING_UPGRADE_FROM_BS1_CLEAN_OK = Cài đặt mới
+
+STRING_INSTALLATION_ROLLBACK = Quay lại cài đặt
+
+STRING_LATEST_VERSION = Bạn đang sử dụng phiên bản mới nhất
+
+STRING_ATTACHMENT_COUNT_EXCEEDED = Số lượng đính kèm quá cao
+
+STRING_CHANGE_FOLDER = Thay đổi thư mục
+
+STRING_CREATE_0_INSTANCE = Tạo một phiên bản {0}?
+
+STRING_BACK = Trở lại
+
+STRING_SOFTWARE_LICENSE = bản quyền phần mềm
+
+STRING_SPACE_AVAILABLE = Không gian sẵn có
+
+STRING_BLACK_SCREEN = Màn hình đen
+
+STRING_UPGRADE_FROM_BS1_CLEAN_CANCEL = Giữ bản cũ
+
+STRING_BLUESTACKS_INSTALLER = Trình cài đặt @@STRING_PRODUCT_NAME@@
+
+STRING_LOGCOLLECTOR_DESCRIPTION_WARNING = Nhập hơn 10 ký tự trong phần mô tả
+
+STRING_INITIATING_PERFORMANCE_BOOST = Hoàn thiện các bước cài đặt bài đăng
+
+STRING_UNFORTUNATELY_COULDNT_UPGRADE = Không thể cập nhật BlueStacks 5.
+
+STRING_HYPERV_DISABLED_WARNING = @@STRING_PRODUCT_NAME@@ không thể bắt đầu khi Hyper-V bị tắt.
+
+STRING_INCOMPATIBLE_INSTALLER = bản cài đặt không tương thích
+
+STRING_UNINSTALL = Gỡ cài đặt
+
+STRING_ADDITIONAL_FILES_DOWNLOAD_INSTANCE = @@STRING_PRODUCT_NAME@@ đã được cài đặt. Để tạo phiên bản {0}, một số tệp bổ sung sẽ được tải xuống.
+
+STRING_PREINSTALL_FAIL = Rất tiếc, PC của bạn không đáp ứng các yêu cầu tối thiểu để cài đặt @@STRING_PRODUCT_NAME@@.
+
+STRING_UPGRADE_NOW = Cập nhật bây giờ
+
+STRING_0_OF_1 = {0} của {1}
+
+STRING_SUBMIT_REPORT = GỬI BÁO CÁO
+
+STRING_OTHER_REASON = Các lý do hoặc thông tin khác, ví dụ: tên trò chơi, v.v.
+
+STRING_ENGINE_UNINSTALL = Gỡ cài đặt công cụ
+
+STRING_STATUS_SENDING = Gửi báo cáo sự cố
+
+STRING_CONFLICT_WITH_OTHERS = Xung đột với phần mềm khác
+
+STRING_INSTALLATION_START_WHEN_DOWNLOAD_FINISHES = Quá trình cài đặt sẽ bắt đầu ngay khi quá trình tải xuống hoàn tất
+
+STRING_YOUR_EMAIL = địa chỉ email của bạn
+
+STRING_BS_CANNOT_INSTALL_64_ON_32 = @@STRING_PRODUCT_NAME@@ không thể cài đặt phiên bản 64 bit của Android vì bạn đang sử dụng Windows 32 bit.
+
+STRING_PRE_INSTALL_CHECKS = Kiểm tra yêu cầu hệ thống
+
+STRING_ATTACHMENT_UNALLOWED_EXTENSION = Tệp bạn đang cố gắng đính kèm không phải là hình ảnh. Vui lòng đính kèm ảnh chụp màn hình của sự cố và thử lại.
+
+STRING_CONTINUE_IN_BACKGROUND = Bạn có muốn tiếp tục tải xuống @@STRING_PRODUCT_NAME@@ dưới nền không?
+
+STRING_ADMINISTRATIVE_RIGHTS_REQUIRED = Yêu cầu đặc quyền quản trị viên
+
+STRING_PROMPT = Không thể gửi báo cáo sự cố. Một file có tên BlueStacks-Support.zip đã được tạo trên màn hình của bạn. Vui lòng gửi e-mail file này cùng với mô tả ngắn gọn về sự cố bạn đang gặp phải tới support@bluestacks.com.
+
+VERSION = Phiên bản
+
+STRING_INSTALL_ENGINE_FAIL = Không thể cài đặt Engine
+
+STRING_BST_INSTALLER_ALREADY_RUNNING = Một phiên bản khác của trình cài đặt@@STRING_PRODUCT_NAME@@ đã chạy.
+
+STRING_UPDATE_SETTING = Cập nhật
+
+STRING_EXTRACTING_FILES = Giải nén tập tin
+
+STRING_FREE_DISK_SPACE = Làm thế nào để chạy tiện ích dọn ổ đĩa?
+
+STRING_INSTALL = Tải về
+
+STRING_ERROR_WHILE_DOWNLOADING_BS = Đã xảy ra lỗi khi cố tải xuống @@STRING_PRODUCT_NAME@@.
+
+STRING_SELECT = Lựa chọn
+
+STRING_OLD_INSTALLATION_INTERFERING = Có vẻ như quá trình cài đặt hiện có của @@STRING_PRODUCT_NAME@@ đang cản trở nỗ lực cài đặt @@STRING_PRODUCT_NAME@@ hiện tại.
+
+STRING_OUTLINE_ISSUE = Vui lòng mô tả vấn đề bên dưới để chúng tôi có thể hiểu cách giúp bạn.
+
+STRING_FINISH_REPORT_SEND = Báo cáo sự cố của bạn đã được gửi. Chúng tôi sẽ lấy lại cho bạn sớm.
+
+STRING_STATUS_ARCHIVING = Tạo kho lưu trữ hỗ trợ
+
+STRING_PC_MIN_REQ_UNMET_HOWEVER_PLAY_ON_X = PC của bạn không đáp ứng các yêu cầu hệ thống tối thiểu để cài đặt @@STRING_PRODUCT_NAME@@. Tuy nhiên, bạn có thể chơi các trò chơi Android yêu thích của mình trực tuyến trên đám mây của chúng tôi bằng BlueStacks X.
+
+STRING_PLAY_ON_CLOUD = Chơi trên đám mây
+
+STRING_NOT_ENOUGH_SPACE_PLAY_X = @@STRING_PRODUCT_NAME@@ yêu cầu ít nhất {0} GB dung lượng đĩa trống trong ổ đĩa {1} để cài đặt. Bạn có thể giải phóng dung lượng ổ đĩa cần thiết và thử lại hoặc thay đổi đường dẫn để cài đặt trên ổ đĩa khác hoặc chơi trực tuyến trên đám mây của chúng tôi bằng BlueStacks X.
+
+STRING_BSX_ON_GL_UNSUPPORTED = Cạc đồ họa của bạn hoặc trình điều khiển của nó không tương thích với @@STRING_PRODUCT_NAME@@. Vui lòng cập nhật trình điều khiển của bạn và thử cài đặt lại. Bạn cũng có thể chơi các trò chơi Android yêu thích của mình trực tuyến trên đám mây của chúng tôi bằng BlueStacks X.
+
+
+STRING_PC_MIN_REQ_UNMET = PC của bạn không đáp ứng các yêu cầu hệ thống tối thiểu để cài đặt @@STRING_PRODUCT_NAME@@.
+
+STRING_NOT_ENOUGH_SPACE = @@STRING_PRODUCT_NAME@@ yêu cầu ít nhất {0} GB dung lượng đĩa trống trong ổ đĩa {1} để cài đặt. Bạn có thể giải phóng dung lượng ổ đĩa cần thiết và thử lại hoặc thay đổi đường dẫn để cài đặt trên ổ đĩa khác.
+
+STRING_GL_UNSUPPORTED = Cạc đồ họa của bạn hoặc trình điều khiển của nó không tương thích với @@STRING_PRODUCT_NAME@@. Vui lòng cập nhật driver và thử cài đặt lại.
+
+STRING_INTERNET_UNSTABLE = Kết nối Internet của bạn không ổn định. Vui lòng kiểm tra kết nối của bạn và thử lại.
+
+STRING_CHANGE_PATH = Thay đổi lộ trình
+
+STRING_MIN_REQ_FAILED_0 = Hệ thống của bạn không đáp ứng các yêu cầu tối thiểu để chạy {0}.
+
+STRING_INSTALL_32BIT = Vui lòng cài đặt phiên bản @@STRING_PRODUCT_NAME@@ {0}.
+
+STRING_OTHER = Khác
+
+STRING_RETRY_BANNER_MESSAGE = Đã xảy ra lỗi khi giải nén một số tệp. Vui lòng thử lại hoặc {0} để được hỗ trợ nếu sự cố vẫn tiếp diễn.
+
+STRING_CONTACT_US = liên hệ chúng tôi
+
+STRING_ABORT = Huỷ bỏ
+
+STRING_ANDROID11 = Android 11
+
+STRING_BACKUP_AND_RESTORE = Sao lưu và khôi phục
+
+STRING_BACKUP_PROGRESS = Đang sao lưu
+
+STRING_BACKUP_WARNING = Không khởi động lại hoặc tắt máy tính của bạn cho đến khi quá trình hoàn tất.
+
+STRING_BACKUP_SUCCESSFUL_HEADER = Sao lưu thành công
+
+STRING_BACKUP_SUCCESSFUL_BODY = Dữ liệu của bạn đã được sao lưu thành công vào thư mục sau:
+
+STRING_LAUNCH_PLAYER = Khởi chạy @@STRING_PRODUCT_NAME@@
+
+STRING_CANCEL_BACKUP = Hủy sao lưu?
+
+STRING_CANCEL_BACKUP_INFO = Bạn có chắc chắn muốn hủy sao lưu không, bạn có thể thực hiện lại sau từ cài đặt.
+
+STRING_DONT_CANCEL = Đừng hủy bỏ
+
+STRING_RESTORING_BACKUP = Khôi phục dữ liệu
+
+STRING_SELECT_BACKUP = Chọn bản sao lưu
+
+STRING_SELECT_RESTORE = Chọn khôi phục
+
+STRING_INCORRECT_PATH = Một thư mục không chính xác đã được chọn. Vui lòng chọn đúng thư mục sao lưu mà bạn muốn khôi phục và thử lại.
+
+STRING_RESTORE_FAILURE = Khôi phục không thành công
+
+STRING_RESTORE_FAIL_INFO = Đã xảy ra lỗi khi khôi phục dữ liệu của bạn. Vui lòng thử lại.
+
+STRING_COULD_NOT_RESOTRE_INSUFFICIENT_SPACE = Cần ít nhất {0} GB dung lượng ổ đĩa để khôi phục dữ liệu của bạn. Vui lòng giải phóng một số dung lượng đĩa và thử lại.
+
+STRING_BACKUP_FAILED = Sao lưu không thành công
+
+STRING_BACKUP_FAIL_INFO = Đã xảy ra sự cố khi sao lưu dữ liệu của bạn. Vui lòng thử lại.
+
+STRING_COULD_NOT_BACKUP_INSUFFICIENT_SPACE = Cần ít nhất {0} GB dung lượng ổ đĩa để sao lưu dữ liệu của bạn. Vui lòng thay đổi vị trí ổ đĩa hoặc giải phóng một số dung lượng.
+
+STRING_CHANGE_LOCATION = Thay đổi vị trí
+
+STRING_RESTORE_SUCCESSFUL_HEADER = Khôi phục thành công
+
+STRING_RESTORE_SUCCESSFUL_BODY = Dữ liệu của bạn đã được khôi phục thành công.
+
+STRING_UNABLE_TO_INSTALL = Không thể cài đặt
+
+STRING_VALID_CERT_ERROR = Các bản cập nhật Windows cơ bản cần thiết để cài đặt không khả dụng. Đọc qua bài viết để biết cách giải quyết vấn đề này.
+
+STRING_READ_ARTICLE = Đọc thêm
+
+STRING_SELECT_BACKUP_FOLDER = Chọn một thư mục mà bạn muốn tạo bản sao lưu
+
+STRING_BEFORE_YOU_RESTORE = Trước khi bạn khôi phục
+
+STRING_RESTORE_FAIL_WARNING = Xin lưu ý rằng việc khôi phục dữ liệu từ bản sao lưu của phiên bản cũ hơn của@@STRING_PRODUCT_NAME@@ về phiên bản hiện tại có thể không thành công.
+
+STRING_RESTORE_NOT_PERMITTED = Không hỗ trợ khôi phục bản sao lưu mới hơn về phiên bản cũ hơn của @@STRING_PRODUCT_NAME@@ 
+
+STRING_BACKUP_ERROR_INVALID_PATH_SELECTED = Đã xảy ra lỗi khi sao lưu dữ liệu của bạn. Chọn một thư mục khác và thử lại.
+
+STRING_BACKUP_UNSUCCESSFUL = Sao lưu không thành công
+STRING_CONTACT_TECHNICAL_SUPPORT = Bạn có thể liên hệ trực tiếp với bộ phận hỗ trợ kỹ thuật để giải quyết vấn đề của mình
+
+STRING_PREFER_BS4 = Ưu tiên BS4
+
+STRING_NECESSARY_ACTIONS = Vui lòng đợi trong khi BlueStacks thực hiện các thao tác cần thiết
+
+STRING_RESTART_LATER = Khởi động lại sau
+
+STRING_PROCESS_COMPLETED = Quá trình hoàn tất thành công.
+
+STRING_RESTART_FOR_CHANGES = Bạn có muốn khởi động lại PC của mình để các thay đổi có hiệu lực không?
+
+STRING_UPDATE_WIN7_TITLE = Cập nhật phiên bản Windows 7 mới nhất
+
+STRING_UPDATE_WIN7_MESSAGE = Để đảm bảo hệ thống của bạn đáp ứng các yêu cầu tối thiểu, bạn phải cài đặt Windows 7 Gói Dịch vụ 1. Xem bài viết để biết các bước chi tiết.
+
+STRING_UPDATE_DRIVERS_TITLE = Cập nhật trình điều khiển card đồ họa
+
+STRING_UPDATE_DRIVERS_MESSAGE = Cạc đồ họa của bạn hiện không tương thích với phiên bản @@STRING_PRODUCT_NAME@@ này. Vui lòng thử cập nhật trình điều khiển cạc đồ họa của bạn.
+
+STRING_VIEW_ARTICLE = Xem bài vi
+
+STRING_UNINSTALLING_WAIT = Đang gỡ cài đặt @@ STRING_PRODUCT_NAME @@, vui lòng đợi
+
+STRING_CLEANER_TITLE = @@ STRING_PRODUCT_NAME @@ sạch hơn
