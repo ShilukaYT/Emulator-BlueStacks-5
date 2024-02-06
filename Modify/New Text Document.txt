@@ -1,0 +1,24 @@
+reg delete HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\BlueStacks_nxt /v DisplayName /f
+reg add HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\BlueStacks_nxt /v DisplayName /t REG_SZ /d "BlueStacks 5.13.0 Lite"
+reg delete HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\BlueStacks_nxt /v EstimatedSize /f
+reg add HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\BlueStacks_nxt /v EstimatedSize /t REG_DWORD /d 2520023
+reg delete HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\BlueStacks_nxt /v Publisher /f
+reg add HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\BlueStacks_nxt /v Publisher /t REG_SZ /d "Hieu GL Lite"
+BstkVMMgr.exe internalcommands sethduuid "C:\ProgramData\BlueStacks_nxt\Engine\Nougat32\Root_0 - Copy.vhd" fca296ce-8268-4ed7-a57f-d32ec11ab304
+
+Dưới đây là một đoạn mã Inno Setup mà bạn có thể sử dụng để giải nén tệp Setup vào thư mục tạm và chạy tệp exe trong thư mục tạm. Hãy chắc chắn rằng bạn đã thay đổi `YourSetupFile` và `YourExeFile` thành tên tệp thực tế của bạn.
+
+```pascal
+[Setup]
+AppName=My Program
+AppVersion=1.5
+DefaultDirName={pf}\My Program
+
+[Files]
+Source: "YourSetupFile"; DestDir: "{tmp}"; Flags: deleteafterinstall
+
+[Run]
+Filename: "{tmp}\YourExeFile"; Parameters: "/SILENT /NORESTART"; StatusMsg: "Installing..."; Flags: nowait postinstall skipifsilent
+```
+
+Trong đoạn mã trên, `YourSetupFile` là tệp bạn muốn giải nén và `YourExeFile` là tệp exe bạn muốn chạy. `{tmp}` là biến môi trường cho thư mục tạm của hệ thống. `Flags: deleteafterinstall` đảm bảo rằng tệp sẽ được xóa sau khi cài đặt. `Flags: nowait postinstall skipifsilent` đảm bảo rằng tệp exe sẽ được chạy ngay sau khi cài đặt và không chờ đợi quá trình cài đặt hoàn tất. Nếu bạn muốn thay đổi đường dẫn của thư mục tạm, bạn có thể thay thế `{tmp}` bằng đường dẫn của bạn.

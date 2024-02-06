@@ -1,0 +1,7 @@
+New-SelfSignedCertificate -Type Custom -Subject "CN=Hieu GL Lite, O=Hieu GL Lite, C=VN" -KeyUsage DigitalSignature -FriendlyName "Hieu" -CertStoreLocation "Cert:\CurrentUser\My" -TextExtension @("2.5.29.37={text}1.3.6.1.5.5.7.3.3", "2.5.29.19={text}")
+
+Export-PfxCertificate -cert "Cert:\CurrentUser\My\204788695767659CDE7840347A5EFE403757DFDC" -FilePath C:\HieuGLLite.pfx -Password $password
+Export-PfxCertificate -cert "Cert:\CurrentUser\My\204788695767659CDE7840347A5EFE403757DFDC" -FilePath C:\Hieu1.pfx -ProtectTo Everyone
+$password = ConvertTo-SecureString -String HieuGLLite -Force -AsPlainText 
+
+"C:\Users\Admin\Desktop\Modify\SDK\signtool.exe" sign /f "C:\Users\Admin\Desktop\HieuGLLite.pfx" /p HieuGLLite /fd SHA256 /t http://timestamp.digicert.com "C:\Users\Admin\Desktop\MSI_App_Player_5.12_Pie64_Unlocked+Magisk_HieuGLLite.exe"
